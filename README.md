@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/passport-illustration.jpg" width="350">
 
 # World passport power rank, enriched edition
-> Go beyond an addition of countries and discover how much of the world surface/GDP/population you can explore, visa-free!
+> Go beyond the traditional passport ranking and discover how much of the world surface/GDP/population you can explore, visa-free!
 
 Using a scraped copy of the Henley passport ranking, I have combined the traditional passport rank with World Bank data in order to get a more realistic view of how powerful world passports are.
 
-Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only the countries sums which weighting them ?
+Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only a countries sums which weighting them ?
 
 ## Features
 
@@ -15,6 +15,13 @@ Not all countries are equal in terms of surface, population, GDP.. so why passpo
 ## Interesting findings (so far)
 
 TBD
+
+## Data sources 
+
+* Visa free list: Henley www.henleypassportindex.com/( 199 different passports and 227 different travel destinations as of January 2019), data provided by the International Air Transport Authority (IATA)
+* Country codes list: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+** Scrapped by Juanu https://www.kaggle.com/juanumusic/countries-iso-codes
+* Countries data: The World Bank http://data.un.org/
 
 ## Developing
 
