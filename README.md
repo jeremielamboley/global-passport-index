@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/passport-illustration.jpg | height=200 )
+<img src="https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/passport-illustration.jpg" width="350">
 
 # World passport power rank, enriched edition
 > Go beyond an addition of countries and discover how much of the world surface/GDP/population you can explore, visa-free!
