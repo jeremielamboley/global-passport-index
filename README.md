@@ -1,28 +1,10 @@
-![Logo of the project](https://raw.githubusercontent.com/jeremielamboley/real-passport-index/passport-illustration.jpg)
+![Logo of the project](https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/passport-illustration.jpg)
 
 # World passport power rank, enriched edition
 > Go beyond an addition of countries and discover how much of the world surface/GDP/population you can explore, visa-free!
 
 Using a scraped copy of the Henley passport ranking, I have combined the traditional passport rank with World Bank data in order to get a more realistic view of how powerful world passports are.
 Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only the countries sums which weighting them ?
-
-## Installing / Getting started
-
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
-
-Here you should say what actually happens when you execute the code above.
-
-### Initial Configuration
-
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
 
 ## Developing
 
@@ -36,13 +18,12 @@ packagemanager install
 
 ## Features
 
-What's all the bells and whistles this project can perform?
 * a new (hopefully better!) passport ranking
 * highlight the biggest win and drops compare to the traditional ranking system
 
 ## Contributing
 
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome."
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links
 
