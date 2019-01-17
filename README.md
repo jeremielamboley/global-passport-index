@@ -4,9 +4,22 @@
 > Go beyond an addition of countries and discover how much of the world surface/GDP/population you can explore, visa-free!
 
 Using a scraped copy of the Henley passport ranking, I have combined the traditional passport rank with World Bank data in order to get a more realistic view of how powerful world passports are.
+
 Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only the countries sums which weighting them ?
 
+## Features
+
+* a new (hopefully better!) passport ranking
+* highlight the biggest win and drops compare to the traditional ranking system
+
+## Interesting findings (so far)
+
+TBD
+
 ## Developing
+
+Any database with a list of country in a ISO 3166-1 format can be added to enrich the ranking.
+I am planning to add the World Heritage List from the Unesco https://whc.unesco.org/en/list/xls/?2018
 
 If you want to develop the project further:
 
@@ -15,11 +28,6 @@ git clone https://github.com/jeremielamboley/world-passport-power-rank-enriched.
 cd world-passport-power-rank-enriched/
 packagemanager install
 ```
-
-## Features
-
-* a new (hopefully better!) passport ranking
-* highlight the biggest win and drops compare to the traditional ranking system
 
 ## Contributing
 
