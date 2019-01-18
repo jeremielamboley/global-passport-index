@@ -5,7 +5,7 @@
 
 Using a scraped copy of the Henley passport ranking, I have combined the traditional passport rank with World Bank data in order to get a more realistic view of how powerful world passports are.
 
-Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only a countries sums which weighting them ?
+Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only a countries sums without weighting them ?
 
 ## Features
 
