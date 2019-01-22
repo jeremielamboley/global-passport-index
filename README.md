@@ -39,7 +39,7 @@ This project uses the following software and Python libraries:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has most of the above packages (except scrapy) and more included. 
 
 ## Developing
 
