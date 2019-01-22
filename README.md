@@ -46,10 +46,6 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 - Repository: https://github.com/jeremielamboley/world-passport-power-rank-enriched
 - Issue tracker: https://github.com/jeremielamboley/world-passport-power-rank-enriched/issues
   - In case of sensitive bugs like security vulnerabilities, please contact jeremie@lamboley.pro directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
