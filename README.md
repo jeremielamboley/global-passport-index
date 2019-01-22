@@ -26,7 +26,6 @@ TBD
 ## Developing
 
 Any database with a list of country in a ISO 3166-1 format can be added to enrich the ranking.
-I am planning to add the World Heritage List from the Unesco https://whc.unesco.org/en/list/xls/?2018
 
 If you want to develop the project further:
 
