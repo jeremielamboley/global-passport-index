@@ -28,6 +28,19 @@ Special thanks to:
 * Countries data: The United Nations Statistics Division http://data.un.org/
 * Unesco World Heritage List http://whc.unesco.org/en/syndication
 
+## Software and Libraries
+
+This project uses the following software and Python libraries:
+
+- [Python](https://www.python.org/download/releases/3.0/)
+- [NumPy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org/)
+- [scrapy](https://scrapy.org/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. 
+
 ## Developing
 
 Any database with a list of country in a ISO 3166-1 format can be added to enrich the ranking.
