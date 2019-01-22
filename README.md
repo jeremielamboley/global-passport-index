@@ -19,7 +19,7 @@ Expected end of January 2019
 ## Credits
 
 Special thanks to:
-* Guy Freeman for the scrapy script of www.henleypassportindex.com/ https://github.com/slygent
+* Guy Freeman (https://github.com/slygent) for the scrapy script of www.henleypassportindex.com/
 
 ## Data sources 
 
