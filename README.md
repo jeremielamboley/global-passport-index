@@ -21,6 +21,7 @@ TBD
 * Visa free list: Henley www.henleypassportindex.com/ (199 different passports and 227 different travel destinations as of January 2019), data provided by the International Air Transport Authority (IATA)
 * Country codes list: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes, scrapped by Juanu https://www.kaggle.com/juanumusic/countries-iso-codes
 * Countries data: The United Nations Statistics Division http://data.un.org/
+* Unesco World Heritage List http://whc.unesco.org/en/syndication
 
 ## Developing
 
