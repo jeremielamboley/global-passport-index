@@ -14,7 +14,12 @@ Not all countries are equal in terms of surface, population, GDP.. so why passpo
 
 ## Interesting findings (so far)
 
-TBD
+Expected end of January 2019
+
+## Credits
+
+Special thanks to:
+* Guy Freeman for the scrapy script of www.henleypassportindex.com/ https://github.com/slygent
 
 ## Data sources 
 
