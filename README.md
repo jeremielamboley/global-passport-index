@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/passport-illustration.jpg" width="350">
+<img src="https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/source_files/passport-illustration.jpg" width="350">
 
 # World passport power rank, enriched edition
 > Go beyond the traditional passport ranking and discover how much of the world surface/GDP/population you can explore, visa-free!
