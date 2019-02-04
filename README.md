@@ -15,7 +15,7 @@ Not all countries are equal in terms of surface, population, GDP.. so why passpo
 
 ## Interesting findings
 
-A detailed blogpost Will be published on Medium shortly.
+A detailed blogpost will be published on Medium shortly.
 
 ## Credits
 
