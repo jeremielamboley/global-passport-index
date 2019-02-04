@@ -9,17 +9,19 @@ Not all countries are equal in terms of surface, population, GDP.. so why passpo
 
 ## Features
 
-* a new (hopefully better!) passport ranking
-* highlight the biggest win and drops compare to the traditional ranking system
+* Improved passport ranking with each country weighted
+* Correlations between rank, region and development stages
+* Biggest win and drops compare to the traditional passport indexes
 
-## Interesting findings (so far)
+## Interesting findings
 
-Expected end of January 2019
+A detailed blogpost will be published on Medium shortly.
 
 ## Credits
 
 Special thanks to:
 * Guy Freeman (https://github.com/slygent) for the scrapy script of www.henleypassportindex.com/
+* Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the data visualizations. 
 
 ## Data sources 
 
@@ -36,6 +38,8 @@ This project uses the following software and Python libraries:
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [scrapy](https://scrapy.org/)
+- [plotly](https://plot.ly/python/getting-started/)
+- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets#install)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
