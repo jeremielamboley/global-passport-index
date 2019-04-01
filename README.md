@@ -21,7 +21,8 @@ A detailed blogpost will be published on Medium shortly.
 
 Special thanks to:
 * Guy Freeman (https://github.com/slygent) for the scrapy script of www.henleypassportindex.com/
-* Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the data visualizations. 
+* Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the code of the visualizations.
+* Xavier Mathieu (https://github.com/bluexm) for his precious mentorship and help to make this project more digestible and engaging.
 
 ## Data sources 
 
