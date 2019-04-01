@@ -1,32 +1,29 @@
 <img src="https://raw.githubusercontent.com/jeremielamboley/global-passport-index/master/source_files/passport-illustration.jpg" width="350">
 
-# World passport power rank, enriched edition
-> Go beyond the traditional passport ranking and discover how much of the world surface/GDP/population you can explore, visa-free!
+# An improved ranking of the world’s passports with Python Pandas and Plotly visualizations
 
-Using a scraped copy of the Henley passport ranking, I have combined the traditional passport rank with United Nations Statistics Division data in order to get a more realistic view of how powerful world passports are.
+In this project, we have combined a passport relationship table with countries statistics in order to challenge existing passport rankings and propose alternative rankings. We have then used plot.ly to make the data interactive and visually appealing.
 
-Not all countries are equal in terms of surface, population, GDP.. so why passport ranks should take into account only a countries sums without weighting them ?
+## Publication
 
-## Features
+The data gathered has been used in an article published on Medium, which detail the method and include the visualizations:
+https://medium.com/@jeremielamboley/visualization-passports-index-python-pandas-plotly-943f501b9d67
 
-* Improved passport ranking with each country weighted
-* Correlations between rank, region and development stages
-* Biggest win and drops compare to the traditional passport indexes
+## Main features
 
-## Interesting findings
-
-A detailed blogpost will be published on Medium shortly.
+* gather data to replicate the traditional passports rankings
+* add external countries statistics from reputable sources
+* propose a new and improved ranking method
 
 ## Credits
 
 Special thanks to:
-* Guy Freeman (https://github.com/slygent) for the scrapy script of www.henleypassportindex.com/
+* Guy Freeman (https://github.com/slygent) for the scrapy script.
 * Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the code of the visualizations.
 * Xavier Mathieu (https://github.com/bluexm) for his precious mentorship and help to make this project more digestible and engaging.
 
 ## Data sources 
 
-* Visa free list: Henley www.henleypassportindex.com/ (199 different passports and 227 different travel destinations as of January 2019), data provided by the International Air Transport Authority (IATA)
 * Country codes list: https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes, scrapped by Juanu https://www.kaggle.com/juanumusic/countries-iso-codes
 * Countries data: The United Nations Statistics Division http://data.un.org/
 * Unesco World Heritage List http://whc.unesco.org/en/syndication
@@ -55,7 +52,6 @@ If you want to develop the project further:
 ```shell
 git clone https://github.com/jeremielamboley/global-passport-index.git
 cd global-passport-index/
-packagemanager install
 ```
 
 ## Contributing
