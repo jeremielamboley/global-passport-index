@@ -2,11 +2,11 @@
 
 # An improved ranking of the world’s passports with Python Pandas and Plotly visualizations
 
-In this project, we have combined a passport relationship table with countries statistics in order to challenge existing passport rankings and propose a alternative rankings. We have then used plot.ly to make the data interactive and visually appealing.
+In this project, we have combined a passport relationship table with countries statistics in order to challenge existing passport rankings and propose alternative rankings. We have then used plot.ly to make the data interactive and visually appealing.
 
 ## Publication
 
-The data gathered have been used in an article published on Medium, which detail the method and include the visualizations:
+The data gathered has been used in an article published on Medium, which detail the method and include the visualizations:
 https://medium.com/@jeremielamboley/visualization-passports-index-python-pandas-plotly-943f501b9d67
 
 ## Main features
