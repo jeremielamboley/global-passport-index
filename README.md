@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jeremielamboley/world-passport-power-rank-enriched/master/source_files/passport-illustration.jpg" width="350">
+<img src="https://raw.githubusercontent.com/jeremielamboley/global-passport-index/master/source_files/passport-illustration.jpg" width="350">
 
 # World passport power rank, enriched edition
 > Go beyond the traditional passport ranking and discover how much of the world surface/GDP/population you can explore, visa-free!
@@ -21,7 +21,8 @@ A detailed blogpost will be published on Medium shortly.
 
 Special thanks to:
 * Guy Freeman (https://github.com/slygent) for the scrapy script of www.henleypassportindex.com/
-* Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the data visualizations. 
+* Ahmed Benjelloun (https://github.com/abenjelloun1) for his feedback and help with the code of the visualizations.
+* Xavier Mathieu (https://github.com/bluexm) for his precious mentorship and help to make this project more digestible and engaging.
 
 ## Data sources 
 
@@ -52,8 +53,8 @@ Any database with a list of country in a ISO 3166-1 format can be added to enric
 If you want to develop the project further:
 
 ```shell
-git clone https://github.com/jeremielamboley/world-passport-power-rank-enriched.git
-cd world-passport-power-rank-enriched/
+git clone https://github.com/jeremielamboley/global-passport-index.git
+cd global-passport-index/
 packagemanager install
 ```
 
@@ -63,8 +64,8 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Links
 
-- Repository: https://github.com/jeremielamboley/world-passport-power-rank-enriched
-- Issue tracker: https://github.com/jeremielamboley/world-passport-power-rank-enriched/issues
+- Repository: https://github.com/jeremielamboley/global-passport-index
+- Issue tracker: https://github.com/jeremielamboley/global-passport-index/issues
   - In case of sensitive bugs like security vulnerabilities, please contact jeremie@lamboley.pro directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 - Related projects:
   - My main gitHub page: https://github.com/jeremielamboley
